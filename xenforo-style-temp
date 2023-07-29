@@ -9,17 +9,15 @@
     display: inline-block;
     width: 10%;
 }
-.usergroup-text {
-    width: 89%;
+.usergroup-text strong {
     background: #222;
+	width: 100%;
     font-weight: bold;
     text-align: center;
     display: inline-block;
+	color: white;
+	padding-top: 1px;
 }
-.usergroup-span {
-    color: white;
-}
-
 .admin {
     background: linear-gradient(to right, #105da5, #2877fb);
 }
