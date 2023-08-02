@@ -5,15 +5,19 @@
     display: block;
     width: 100%;
 }
+.userBanner strong {
+	font-weight: 0;
+}
 .usergroup-text strong {
     background: #222;
 	width: 100%;
-    font-weight: 400!important;
+    font-weight: 400;
     text-align: center;
     display: inline-block;
 	color: white;
 	padding-top: 1px;
 }
+
 .admin {
     background: linear-gradient(to right, #105da5, #2877fb);
 }
